@@ -1,9 +1,5 @@
 # Android
 
-<snippet>
-  <content><![CDATA[
-# ${1:Android Projects}
-
 TODO: Write a project description
 
 ## Installation
@@ -34,6 +30,4 @@ TODO: Write credits
 
 TODO: Write license
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
